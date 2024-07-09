@@ -1,0 +1,20 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,opensubtitles.org
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,kwcdn.com
+DOMAIN-SUFFIX,temu.com
+

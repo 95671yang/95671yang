@@ -1,0 +1,47 @@
+# PT站点、观影地址等直连列表
+
+# MyList
+# 域名后缀匹配
+DOMAIN-KEYWORD,springsunday.net
+DOMAIN-KEYWORD,pterclub.com
+DOMAIN-KEYWORD,discfan.net
+DOMAIN-KEYWORD,hhanclub.top
+DOMAIN-KEYWORD,hhan.club
+DOMAIN-KEYWORD,keepfrds.com
+DOMAIN-KEYWORD,ourbits.club
+DOMAIN-KEYWORD,audiences.me
+DOMAIN-KEYWORD,cinefiles.info
+DOMAIN-KEYWORD,hddolby.com
+DOMAIN-KEYWORD,hdhome.org
+DOMAIN-KEYWORD,hdsky.me
+DOMAIN-KEYWORD,m-team.cc
+DOMAIN-KEYWORD,m-team.io
+DOMAIN-KEYWORD,totheglory.im
+DOMAIN-KEYWORD,ultrahd.net
+DOMAIN-KEYWORD,tank99.top
+DOMAIN-KEYWORD,tiangou.xyz
+DOMAIN-KEYWORD,tjupt.org
+DOMAIN-KEYWORD,tigocloud.cn
+DOMAIN-KEYWORD,kuajingmaihuo.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,springsunday
+DOMAIN-KEYWORD,pterclub
+DOMAIN-KEYWORD,discfan
+DOMAIN-KEYWORD,hhanclub
+DOMAIN-KEYWORD,hhan
+DOMAIN-KEYWORD,keepfrds
+DOMAIN-KEYWORD,ourbits
+DOMAIN-KEYWORD,audiences
+DOMAIN-KEYWORD,cinefiles
+DOMAIN-KEYWORD,hddolby
+DOMAIN-KEYWORD,hdhome
+DOMAIN-KEYWORD,hdsky
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,totheglory
+DOMAIN-KEYWORD,ultrahd
+DOMAIN-KEYWORD,pttime
+DOMAIN-KEYWORD,tiangou
+DOMAIN-KEYWORD,tjupt
+DOMAIN-KEYWORD,tank99
