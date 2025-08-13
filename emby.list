@@ -1,0 +1,41 @@
+# 代理补充列表
+
+
+# 域名后缀匹配
+# zox
+DOMAIN-SUFFIX,zoxfree.3767483.xyz
+DOMAIN-SUFFIX,entry.zox.show
+DOMAIN-SUFFIX,entry-cdn.zox.show
+
+# Shrek公益服
+DOMAIN-SUFFIX,public.shrekmedia.org
+
+# SNTP Media Lite 公益计划
+DOMAIN-SUFFIX,lite.cn2gias.uk
+DOMAIN-SUFFIX,lite-v6.cn2gias.uk
+
+# emby存档服
+DOMAIN-SUFFIX,emby.zn.al
+# YOUNO
+DOMAIN-SUFFIX,younoyes.com
+# DPX
+DOMAIN-SUFFIX,69yun69.com
+# ZOX公益
+DOMAIN-SUFFIX,3767483.xyz
+# 守候公益
+DOMAIN-SUFFIX,cn2gias.uk
+# 见手青
+DOMAIN-SUFFIX,vban.xyz
+# 1111
+DOMAIN-SUFFIX,xmsl.org
+# ZOX付费
+DOMAIN-SUFFIX,zox.show
+# A
+DOMAIN-SUFFIX,204cloud.com
+# jms
+DOMAIN-SUFFIX,ouonet.org
+
+
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,zox
